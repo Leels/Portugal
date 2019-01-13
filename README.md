@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a webpage about my trip to Portugal in July of 2016._
+_This is a webpage about my trip to Portugal in July of 2016. Page about the cities of Porto and Lisbon._
 
 ## Setup/Installation Requirements
 
